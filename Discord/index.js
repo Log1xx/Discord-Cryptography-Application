@@ -1,5 +1,5 @@
 const path = require('path');
-const fs = require('node:fs');
+const fs = require('fs');
 const { REST, Routes, ActivityType, EmbedBuilder, ChannelType, PermissionsBitField } = require('discord.js');
 const { Client, GatewayIntentBits, Collection, Events, ActionRowBuilder, ButtonBuilder } = require('discord.js');
 require('dotenv').config({ path: path.resolve(__dirname, '../.env'), });
