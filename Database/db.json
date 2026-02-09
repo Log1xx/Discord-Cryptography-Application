@@ -1,0 +1,33 @@
+{
+  "1137412728416374924": {
+    "accounts": [
+      {
+        "id": "ethereum:0xa8c00bd4ee3df25010984692aaccdfc4c0e57469",
+        "chain": "ethereum",
+        "address": "0xa8c00bd4ee3df25010984692aaccdfc4c0e57469",
+        "label": null,
+        "createdAt": 1770525014123
+      },
+      {
+        "id": "lemon:0xa8c00bd4ee3df25010984692aaccdfc4c0e57469",
+        "chain": "lemon",
+        "address": "0xa8c00bd4ee3df25010984692aaccdfc4c0e57469",
+        "label": null,
+        "createdAt": 1770645411126
+      }
+    ],
+    "selectedAccountId": "lemon:0xa8c00bd4ee3df25010984692aaccdfc4c0e57469",
+    "chains": [
+      {
+        "id": "ethereum",
+        "chainId": 1,
+        "name": "Ethereum",
+        "nativeCoinId": "ethereum",
+        "createdAt": 1770526534404,
+        "lastUsd": 2079.32,
+        "lastCheckedAt": 1770526705017
+      }
+    ],
+    "selectedChainId": "ethereum"
+  }
+}

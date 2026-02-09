@@ -14,7 +14,6 @@ var client;
                 return;
             };
 
-            let verificationMessageId = 0;
             client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.GuildMessageReactions,], });
             client.commands = new Collection();
             
