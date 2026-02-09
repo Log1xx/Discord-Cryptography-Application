@@ -29,4 +29,8 @@ install.bat
 
 ## ✅ Execution
 
-1. Run the command ``node Discord/index.js``
+1. Run the command and watch it login your bot!
+
+```cmd
+node Discord/index.js
+```
